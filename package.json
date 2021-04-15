@@ -1,0 +1,28 @@
+{
+  "name": "noteapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "josephtrusoft",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephtrusoft/noteapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josephtrusoft/noteapi/issues"
+  },
+  "homepage": "https://github.com/josephtrusoft/noteapi#readme",
+  "description": ""
+}
